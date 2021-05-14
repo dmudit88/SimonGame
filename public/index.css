@@ -53,7 +53,7 @@ button {
 }
 .btn1:active,
 .btn1.activated{
-    background-color: #ff2d21;
+    background-color: #ffcccb;
 }
 
 .btn2:active,
